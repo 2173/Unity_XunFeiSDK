@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{704957DD-A64D-25FF-DE15-17225C6AE425}") = "TalkFriend", "Assembly-CSharp.csproj", "{021E3EA2-6AB1-8213-60E6-9CC3EE0FBFA7}"
+EndProject
+Project("{704957DD-A64D-25FF-DE15-17225C6AE425}") = "TalkFriend", "Assembly-CSharp-Editor.csproj", "{D929CE32-7913-941F-BFE7-E46E1C4B2D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021E3EA2-6AB1-8213-60E6-9CC3EE0FBFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021E3EA2-6AB1-8213-60E6-9CC3EE0FBFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021E3EA2-6AB1-8213-60E6-9CC3EE0FBFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021E3EA2-6AB1-8213-60E6-9CC3EE0FBFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D929CE32-7913-941F-BFE7-E46E1C4B2D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D929CE32-7913-941F-BFE7-E46E1C4B2D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D929CE32-7913-941F-BFE7-E46E1C4B2D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D929CE32-7913-941F-BFE7-E46E1C4B2D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
