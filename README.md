@@ -1,5 +1,5 @@
 # Unity_XunFeiSDK
-使用Unity5.0+和AndroidStudio，为安卓添加语音识别。
+使用Unity5.x和AndroidStudio，为安卓添加语音识别。
 
 版权声明：本文为孙思谋原创文章，未经允许不得转载
 如果能找回微博账号，我会把它分享到微博上，再此先做备份。
